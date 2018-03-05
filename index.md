@@ -1,37 +1,17 @@
 ## Jonas JMS
 
-You can use the [editor on GitHub](https://github.com/jjosinoms/jjosinoms.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aqui você terá acesso ao material do projeto em que estiver sendo desenvolvido, as notícias sobre o andamendo do mesmo e curiosidades.
 
 ```markdown
-Syntax highlighted code block
+Elaboração de material
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjosinoms/jjosinoms.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+![Image](http://jonz.com.br/img/eu.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dúvidas? Acesse [jonz!](http://jonz.com.br) ou mande um e-mail para jjosinoms@gmail.com.
